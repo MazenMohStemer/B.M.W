@@ -1,0 +1,14 @@
+img {
+    width: 600px ;
+}
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 213);
+    font-size: 30px ;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXG1QX98mGIIo1j8bTa4zmifPacrFB3qiqLIfh8LytZQ&s=10");
+    background-color: black;
+}
+b, i{
+    color: rgb(255, 250, 244);
+}
